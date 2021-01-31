@@ -1,1 +1,1 @@
-![Image description](https://github.com/LarrySul/Parallax-Landing-Page/blob/master/src/img/Screenshot%20(285).png)
+![Image description](https://github.com/alexgpitts/Leap-year-code-without-error-handling-CS362/blob/main/Leap-year-logic-without-error-handling-CS362.png?raw=true)
